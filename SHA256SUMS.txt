@@ -1,0 +1,2 @@
+ae901460bfd239bd2b5c8d32658ebe3309905da32f6d87787370a6391d02392a  OpenActs-Windows-v2.2.0-Setup.exe
+8b2c51b50f50131c434c7f88f0a0a6efe6c5b3eecd7ff2ddecb7cd35174dcc79  OpenActs-Windows-v2.2.0-Portable.zip
