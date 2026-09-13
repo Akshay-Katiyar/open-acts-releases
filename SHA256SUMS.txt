@@ -1,2 +1,5 @@
 ae901460bfd239bd2b5c8d32658ebe3309905da32f6d87787370a6391d02392a  OpenActs-Windows-v2.2.0-Setup.exe
 8b2c51b50f50131c434c7f88f0a0a6efe6c5b3eecd7ff2ddecb7cd35174dcc79  OpenActs-Windows-v2.2.0-Portable.zip
+a2338c7e6ede99a0e1fef428430358b71347a49220b2f48aceb9742cf157f896  OpenActs-macOS-v2.2.0.dmg
+5ed8caf583f498ada489d661696049f29d7c05375fbde3d959d86cf8bfc67aeb  OpenActs-macOS-v2.2.0.zip
+2681d18cf9af7a16065eaea9de7eb410dfe31f6c1fe0b29b102007fbb38a8b08  OpenActs-iOS-v2.2.0-Unsigned.ipa
