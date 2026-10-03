@@ -23,7 +23,7 @@ Welcome to the official public distribution repository for **Open Acts**. Here y
 ## ⚡ Highlights & Features
 
 * **Strict Online-Only Architecture:** Always fetches authentic, up-to-date statutory sections and court-ready legal text directly from the cloud.
-* **10,930+ Indian Bare Acts:** Complete coverage of Central Enactments and 35 State/UT Jurisdictions.
+* **19,849+ Indian Bare Acts:** Complete coverage of Central Enactments and 35 State/UT Jurisdictions.
 * **Verbatim Statutory Text:** 100% gazette-grade authentic text for major codes including CPC 1908, IPC 1860, BNS, and special acts.
 * **Modern Windows Desktop Experience:** Dual-pane navigation, legal search, and customized reading modes (Light / Dark).
 * **Cross-Platform Security:** Hardened with Android App Transport Security / cleartext denial, macOS sandboxing, and Windows DLL preloading mitigation.
